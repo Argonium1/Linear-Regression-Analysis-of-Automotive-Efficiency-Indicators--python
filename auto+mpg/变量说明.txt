@@ -1,0 +1,10 @@
+Variable Name	Role	Type	Demographic	Description	Units	Missing Values
+displacement	Feature	Continuous				no
+mpg	Target	Continuous				no
+cylinders	Feature	Integer				no
+horsepower	Feature	Continuous				yes
+weight	Feature	Continuous				no
+acceleration	Feature	Continuous				no
+model_year	Feature	Integer				no
+origin	Feature	Integer				no
+car_name	ID	Categorical				no
